@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, Mi nombre es Charles</h1>
-<h3 align="center">Me apasiona la computación y el hacking ético.</h3>
+<h3 align="center">Soy un apasionado de la computación y la tecnología, con un interés particular en el campo del hacking ético. Mi objetivo es ser uno de los mejores en este campo, aportando mi granito de arena a la seguridad cibernética y ayudando a proteger a las personas y organizaciones de posibles amenazas en línea.
+
+Me tomo muy en serio la privacidad y la seguridad, y siempre me aseguro de utilizar herramientas y técnicas que garanticen el anonimato y la protección de los datos personales. Esto no solo es importante en mi trabajo como estudiante de hacking ético, sino también en mi vida diaria, donde trato de promover y educar sobre la importancia de la privacidad y la ciberseguridad.
+
+Además de mis estudios, me gusta mantenerme actualizado sobre las últimas tendencias y desarrollos en el mundo de la tecnología, y disfruto explorando nuevas herramientas y técnicas para mejorar mis habilidades y conocimientos. Soy una persona curiosa y autodidacta, siempre dispuesta a aprender y enfrentar nuevos desafíos en el camino hacia mi meta de ser uno de los mejores en el campo del hacking ético.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesswap&label=Profile%20views&color=0e75b6&style=flat" alt="charlesswap" /> </p>
 
