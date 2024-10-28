@@ -5,10 +5,6 @@ Me tomo muy en serio la privacidad y la seguridad, y siempre me aseguro de utili
 
 Además de mis estudios, me gusta mantenerme actualizado sobre las últimas tendencias y desarrollos en el mundo de la tecnología, y disfruto explorando nuevas herramientas y técnicas para mejorar mis habilidades y conocimientos. Soy una persona curiosa y autodidacta, siempre dispuesta a aprender y enfrentar nuevos desafíos en el camino hacia mi meta de ser uno de los mejores en el campo del hacking ético.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesswap&label=Profile%20views&color=0e75b6&style=flat" alt="charlesswap" /> </p>
-
-- ⚡ Fun fact **mn**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
